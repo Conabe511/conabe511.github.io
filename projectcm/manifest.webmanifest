@@ -1,0 +1,15 @@
+{
+    "name": "PROJECT COLORED MOUNTAINS",
+    "short_name": "PROJECT COLORED MOUNTAINS",
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "background_color": "#FFFFFF",
+    "theme_color": "#000",
+    "description": "Project Colored Mountains for web v0.1.2-betaxxxxxxw",
+    "icons": [{
+      "src": "TemplateData/icons/unity-logo-dark.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }]
+  }
